@@ -1,0 +1,25 @@
+* {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-top: -10px;
+	width: auto;
+	padding-inline: 1rem;
+}
+
+.logo img,
+.icons img {
+	height: 40px;
+}
+
+.icons {
+	display: flex;
+	justify-content: space-between;
+	padding: 0.2rem;
+}
+
+.swicth {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
